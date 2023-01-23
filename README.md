@@ -9,11 +9,17 @@
 
 ### 📚 Education
 
-<img src="https://www.lineex.es/wp-content/uploads/2018/06/UV-logo-con-fondo.jpg" width=20% height=25%> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo-uoc.png" width=20% height=25%> <img src="https://www.kids-cluster.com/wp-content/uploads/2017/09/2018_LA_SALLE_web.jpg" width=20% height=25%> <img src="https://upload.wikimedia.org/wikipedia/ca/thumb/2/2c/Logotip_UB.svg/1024px-Logotip_UB.svg.png" width=20% height=25%>
+<a href="https://www.uv.es"><img src="logos/UV_logo.jpeg" width=20% height=25%></a> 
+<a href="https://www.uoc.edu"><img src="logos/Logo-uoc.png" width=20% height=25%></a> 
+<a href="https://www.salleurl.edu"><img src="logos/LASALLE_logo.jpeg" width=20% height=25%></a> 
+<a href="https://www.ub.edu"><img src="logos/UB_logo.png" width=20% height=25%></a> 
 
 ### 💼 My professional career
 
-<img src="https://enginyerscivils.cat/sites/default/files/styles/large/public/field/image/InstitutCartografic.jpg" width=20% height=25%> <img src="https://ccfundacions.cat/wp-content/uploads/2019/06/1630-1000x523.png" width=20% height=25%> <img src="https://sitep.com/wp-content/uploads/2016/07/sitep-informacion-territorial-y-posicionamiento-logo-sticky.png" width=20% height=25%> <img src="https://www.clustersalutmental.com/wp-content/uploads/2019/05/Starlab_logo.jpg" width=20% height=25%>
+<a href="https://www.icgc.cat"><img src="logos/ICC_logo.jpeg" width=20% height=25%></a> 
+<a href="https://www.fje.edu"><img src="logos/FJI_logo.png" width=20% height=25%></a> 
+<a href="https://sitep.com"><img src="logos/sitep_logo.png" width=20% height=25%></a> 
+<a href="https://www.starlab.es"><img src="logos/Starlab_logo.jpeg" width=20% height=25%></a> 
 
 ---
 
