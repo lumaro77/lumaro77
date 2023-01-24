@@ -11,17 +11,18 @@
 
 ## 📚 Education
 
-`<a href="https://www.uv.es">`<img src="logos/UV_logo.jpeg" width=20% height=25%>`</a>`
-`<a href="https://www.uoc.edu">`<img src="logos/UOC_logo.png" width=20% height=25%>`</a>`
-`<a href="https://www.salleurl.edu">`<img src="logos/LASALLE_logo.jpeg" width=20% height=25%>`</a>`
-`<a href="https://www.ub.edu">`<img src="logos/UB_logo.png" width=20% height=25%>`</a>`
+<a href="https://www.uv.es"><img src="logos/UV_logo.jpeg" width=20% height=25%></a> 
+<a href="https://www.uoc.edu"><img src="logos/UOC_logo.png" width=20% height=25%></a> 
+<a href="https://www.salleurl.edu"><img src="logos/LASALLE_logo.jpeg" width=20% height=25%></a> 
+<a href="https://www.ub.edu"><img src="logos/UB_logo.png" width=20% height=25%></a> 
+
 
 ## 💼 My professional career
 
-`<a href="https://www.icgc.cat">`<img src="logos/ICC_logo.jpeg" width=20% height=25%>`</a>`
-`<a href="https://www.fje.edu">`<img src="logos/FJI_logo.png" width=20% height=25%>`</a>`
-`<a href="https://sitep.com">`<img src="logos/SITEP_logo.png" width=20% height=25%>`</a>`
-`<a href="https://www.starlab.es">`<img src="logos/STARLAB_logo.jpeg" width=20% height=25%>`</a>`
+<a href="https://www.icgc.cat"><img src="logos/ICC_logo.jpeg" width=20% height=25%></a> 
+<a href="https://www.fje.edu"><img src="logos/FJI_logo.png" width=20% height=25%></a> 
+<a href="https://sitep.com"><img src="logos/SITEP_logo.png" width=20% height=25%></a> 
+<a href="https://www.starlab.es"><img src="logos/STARLAB_logo.jpeg" width=20% height=25%></a> 
 
 ---
 
