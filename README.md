@@ -55,8 +55,7 @@
 
 ![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
 ![SNAP](https://github.com/lumaro77/lumaro77/blob/main/logos/snap.png)
-![geoServer](https://github.com/lumaro77/lumaro77/blob/main/logos/geoServer_logo.png)
-![Orfeo_OTB](https://github.com/lumaro77/lumaro77/blob/main/logos/orfeo_otb_logo.png)
+![Orfeo_OTB](https://github.com/lumaro77/lumaro77/blob/main/logos/orfeo_otb_logo.jpeg)
 ![GDAL](https://github.com/lumaro77/lumaro77/blob/main/logos/gdal_logo.png)
 
 ### ☁️ Hosting/SaaS
