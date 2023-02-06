@@ -5,6 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martinez-rodrigo/)
 &nbsp;
+[![ResearchGate](https://github.com/lumaro77/lumaro77/blob/main/logos/researchGate_logo.png)](http://researchgate.net/profile/Lucas-Martinez-Rodrigo)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumaro77/)
 
 ---
